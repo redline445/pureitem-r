@@ -1,0 +1,12 @@
+item.null.name=god
+item.strangesword.name=strange sword
+item.pureItem.name=pure item
+item.strange_0.name=strangeH
+item.strange_1.name=strangeC
+item.strange_2.name=strangeL
+item.strange_3.name=strangeB
+chat.redline.mod=model:%s.
+chat.redline.FallDown=open falldownitem，quantity：%s.
+info.GodWrite.0=
+info.GodDamange.1=Attack Damage+
+item.BrickItemA.name=brick

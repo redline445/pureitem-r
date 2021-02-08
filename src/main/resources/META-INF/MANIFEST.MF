@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+FMLCorePlugin: redline.coreMod.coreLoader
+FMLCorePluginContainsFMLMod: true

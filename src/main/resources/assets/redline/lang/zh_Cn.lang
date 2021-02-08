@@ -1,0 +1,16 @@
+item.null.name=纯能量体之稿
+item.godpower.name=神
+item.pureItem.name=纯能量体
+item.strange_0.name=异常头盔
+item.strange_1.name=异常胸甲
+item.strange_2.name=异常裤子
+item.strange_3.name=异常靴子
+chat.redline.mod=模式：%s。
+chat.redline.FallDown=开启掉落，物品数量：%s。
+info.GodWrite.0=
+info.GodDamange.1=攻击伤害+
+item.BrickItemA.name=板砖
+key.categories.redline=时停移动
+key.redline.forward=前进
+key.redline.back=后退
+key.redline.lift=左

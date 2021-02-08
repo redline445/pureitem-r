@@ -1,0 +1,11 @@
+[
+{
+  "modid": "pureitem",
+  "name": "pureilem",
+  "description": "Only for unmade by redline",
+  "version": "1.0.0",
+  "mcversion": "MC-1.7.10",
+   "screenshots": [],
+  "dependencies": []
+}
+]
